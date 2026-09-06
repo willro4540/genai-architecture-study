@@ -4,6 +4,7 @@
 
 ## 목차
 
+- **[docs/05-idea-catalog.md](docs/05-idea-catalog.md) — 아이디어 개발용 패턴 카탈로그 (모델이 아니라 "어떤 문제에 쓰는가" 기준 인덱스, 먼저 볼 것)**
 - [docs/00-closed-source-context.md](docs/00-closed-source-context.md) — GPT-6 Astra / Seedance 2.0 / Vidu Q3 비공개 확인 기록
 - [docs/01-wan2.2.md](docs/01-wan2.2.md) — Wan2.2: DiT, 2-전문가 타임스텝 스위칭, causal VAE, 조건 신호별 차등 주입, 분산처리
 - [docs/02-deepseek-v4-mhc.md](docs/02-deepseek-v4-mhc.md) — DeepSeek-V4: mHC(Manifold-Constrained Hyper-Connections) 전체 코드 + 동역학적 해석
