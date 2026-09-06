@@ -2,6 +2,14 @@
 
 비공개(폐쇄형) 상용 생성모델 — GPT-6 Astra(OpenAI), Seedance 2.0(ByteDance), Vidu Q3(ShengShu) — 의 오픈소스나 코드가 있는지 확인하다가, 전부 API 전용 비공개 모델이라는 걸 확인하고 대신 **실제 코드가 공개된 대표적인 오픈소스 대안들을 클론해서 직접 뜯어본 기록**.
 
+## 목차
+
+- [docs/00-closed-source-context.md](docs/00-closed-source-context.md) — GPT-6 Astra / Seedance 2.0 / Vidu Q3 비공개 확인 기록
+- [docs/01-wan2.2.md](docs/01-wan2.2.md) — Wan2.2: DiT, 2-전문가 타임스텝 스위칭, causal VAE, 조건 신호별 차등 주입, 분산처리
+- [docs/02-deepseek-v4-mhc.md](docs/02-deepseek-v4-mhc.md) — DeepSeek-V4: mHC(Manifold-Constrained Hyper-Connections) 전체 코드 + 동역학적 해석
+- [docs/03-kimi-k3-kda.md](docs/03-kimi-k3-kda.md) — Kimi K3: KDA(Kimi Delta Attention) delta-rule 코드 + 동역학적 해석
+- [docs/04-ltx-2.5.md](docs/04-ltx-2.5.md) — LTX-2.5: native 오디오-비디오 양방향 결합 아키텍처
+
 ## 왜 이 저장소인가
 
 - GPT-6 Astra / Seedance 2.0 / Vidu Q3 세 모델 모두 가중치·코드 비공개, API로만 서비스됨 (`docs/00-closed-source-context.md`)
